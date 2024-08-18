@@ -1,4 +1,4 @@
-# cost-of-living
+# Cost of Living Index by Country
 Based on 2024 data, we will find the most liveable country.
 
 # About Dataset
