@@ -11,4 +11,4 @@ As of 2024 Mid Year data, in NYC,
 A family of four estimated monthly costs are $6,074.40 without rent.
 A single person's estimated monthly costs are $1,640.90 without rent.
 
-Recourse: https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024/data
+Resource: https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024/data
