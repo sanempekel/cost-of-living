@@ -1,7 +1,7 @@
 # cost-of-living
 Based on 2024 data, we will find the most liveable country.
 
-About Dataset
+# About Dataset
 Cost of Living Index by Country, 2024 Mid Year data
 Data scraped from Numbeo: www.numbeo.com/cost-of-living/rankings_by_country.jsp
 All credits to Numbeo: www.numbeo.com/cost-of-living/
