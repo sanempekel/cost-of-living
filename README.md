@@ -1,5 +1,5 @@
 # Cost of Living Index by Country
-Based on 2024 data, we will find the most liveable country.
+In this project, we will find the most liveable countries in 2024.
 
 ## About Dataset
 Cost of Living Index by Country, 2024 Mid Year data
@@ -31,3 +31,11 @@ To enhance the clarity of my future visualizations, I first filtered the top 10 
 ![scatter_plot](https://github.com/user-attachments/assets/18c7e206-4e9d-41a7-8b5a-3bb8435c8f77)
 
 In the bar chart, Switzerland and Iceland were initially ranked as the top two countries based on the cost of living index. However, when the Local Purchasing Power Index was incorporated into the visualization, it became evident that Luxembourg and Switzerland emerged as the top two countries. This shift highlights that while Switzerland and Iceland have high cost of living indices, Luxembourg also plays a significant role when considering local purchasing power, reflecting a more nuanced perspective on economic conditions.
+
+## Conclusion
+
+The analysis provided valuable insights into the cost of living and local purchasing power across various regions and countries. By using the countrycode library to categorize countries by region and employing R programming for data evaluation, I identified the Europe & Central Asia region as having a notably high cost of living index.
+
+The bar chart visualization created with ggplot2’s geom_bar function effectively highlighted the differences in cost of living across regions, with the Europe & Central Asia region standing out. Further analysis, focusing on this region, revealed that Switzerland and Iceland initially appeared as top countries based on the cost of living index. However, incorporating the Local Purchasing Power Index into the scatter plot shifted the perspective, showing Luxembourg and Switzerland as leading countries in terms of both cost of living and purchasing power.
+
+This nuanced view underscores the importance of considering multiple economic indicators to gain a comprehensive understanding of regional and country-specific economic conditions. By filtering and visualizing the top 10 countries, I was able to provide a clearer comparison and highlight significant trends that could inform further research and analysis.
